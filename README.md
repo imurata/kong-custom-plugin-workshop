@@ -1,3 +1,8 @@
+以下に移行しました。
+
+https://github.com/Kong/ilt-jp/tree/main/kong-custom-plugin-workshop-jp
+
+---
 ※このリポジトリは以下のディレクトリを和訳したものです。
 
 https://github.com/Kong/kong-custom-plugin-workshop
